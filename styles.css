@@ -20,12 +20,13 @@ ol {
     height: auto;
     width: auto;
     margin: 0;
-    padding-bottom: 3%;
+    padding-bottom: 0;
     /* border: 20px solid rgb(12, 11, 11); */
     background-color: #5da189;
-    text-align: center;
+    align-items: center;
+    justify-content: center;
     /* box-sizing: content-box; */
-    /* display: flex; */
+    display: flex;
     
 }
 
