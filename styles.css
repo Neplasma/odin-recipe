@@ -59,3 +59,13 @@ ol {
     width: 40%;
 
 }
+
+.box {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    display: flex;
+    flex-direction: column;
+}
