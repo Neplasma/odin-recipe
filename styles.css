@@ -24,7 +24,7 @@ ol {
     /* border: 20px solid rgb(12, 11, 11); */
     background-color: #5da189;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     /* box-sizing: content-box; */
     display: flex;
     
